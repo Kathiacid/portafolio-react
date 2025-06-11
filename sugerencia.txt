@@ -1,0 +1,7 @@
+8. Extras recomendados
+Animaciones: Usa framer-motion o react-spring.
+
+SEO: Agrega react-helmet para meta tags.
+
+Analytics: Integra Google Analytics con react-ga4.
+
